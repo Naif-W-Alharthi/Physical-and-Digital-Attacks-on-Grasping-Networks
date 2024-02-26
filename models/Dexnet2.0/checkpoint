@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/vsatish/Data/dexnet/data/models/grasp_quality/model_pnovyntihp/model_930000.ckpt"
+all_model_checkpoint_paths: "/home/vsatish/Data/dexnet/data/models/grasp_quality/model_pnovyntihp/model_890000.ckpt"
+all_model_checkpoint_paths: "/home/vsatish/Data/dexnet/data/models/grasp_quality/model_pnovyntihp/model_900000.ckpt"
+all_model_checkpoint_paths: "/home/vsatish/Data/dexnet/data/models/grasp_quality/model_pnovyntihp/model_910000.ckpt"
+all_model_checkpoint_paths: "/home/vsatish/Data/dexnet/data/models/grasp_quality/model_pnovyntihp/model_920000.ckpt"
+all_model_checkpoint_paths: "/home/vsatish/Data/dexnet/data/models/grasp_quality/model_pnovyntihp/model_930000.ckpt"

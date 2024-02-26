@@ -1,0 +1,2 @@
+06-19 01:24:32 root       INFO     Root logger now logging to /home/reasearc/gqcnn/tools/../models/gqcnn_example_pj/training.log
+06-19 01:24:32 GQCNNTrainerTF INFO     Saving model to: /home/reasearc/gqcnn/tools/../models/gqcnn_example_pj
